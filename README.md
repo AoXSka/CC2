@@ -87,8 +87,8 @@ A Telegram CC Checker Bot with hella lotta features.
 
 ## 🎯 Author
 
-- [@Z_tJKkeZQoZlcssuXjVjNerQ](tg://user?id=681184796)
-- [@Z_tJKkeZQoZlcssuXjVjNerQ](t.me/Z_tJKkeZQoZlcssuXjVjNerQ)
+- [@Z_tJKkeZQoZlcssuXjVjNerQ](https://tg://user?id=681184796)
+- [@Z_tJKkeZQoZlcssuXjVjNerQ](https://t.me/Z_tJKkeZQoZlcssuXjVjNerQ)
 
 
 
