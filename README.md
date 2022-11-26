@@ -40,9 +40,17 @@ A Telegram CC Checker Bot with hella lotta features.
 ## 🛠 Commands
 - **💳 CC Checker**
     ```
-    /ss | !ss - Stripe [Auth]
-    /sm | !sm - Stripe [Merchant]
-    /schk | !schk - User Stripe Merchant [Needs SK]
+    /ss   | !ss - Stripe [Auth]⛔
+    /su   | !su - SQUAREUP $1[Auth]🟢
+    /sm   | !sm - Stripe [Merchant]⛔
+    /sx   | !sx - Brazil Auth⛔
+    /s4   | !s4 - Stripe Auth 4
+    /sh   | !sh - Shopify🟢
+    /spp  | !spp - Unknown⛔
+    /py   | !py - Stripe 3⛔
+    /sss  | !sss- STRIPE - CHARGE 10INR⛔
+    /ttt  | !ttt - Stripe (NEED SK)⛔
+    /schk | !schk - User Stripe Merchant [Needs SK]⛔
 
     /apikey sk_live_xxx - Add SK Key for /schk gate
     /myapikey | !myapikey - View the added SK Key for /schk gate
@@ -50,11 +58,13 @@ A Telegram CC Checker Bot with hella lotta features.
 
 - **📡 Other Commands**
     ```
-    /me | !me - User's Info
-    /stats | !stats - Checker Stats
-    /key | !key - SK Key Checker
-    /bin | !bin - Bin Lookup
-    /iban | !iban - IBAN Checker
+    /me    | !me - Tu Informacion
+    /stats | !stats - Estatus Checker
+    /gen   | !gen - Generate Extrap From Bin✅
+    /rand  | !rand - Random Details gen✅
+    /key   | !key - SK Key Checker
+    /bin   | !bin - Bin Lookup
+    /iban  | !iban - IBAN Checker
     ```
 
   
@@ -77,13 +87,14 @@ A Telegram CC Checker Bot with hella lotta features.
 
 ## 🎯 Author
 
-- [@ierfeioq](https://github.com/ierfeioq)
+- [@Z_tJKkeZQoZlcssuXjVjNerQ](tg://user?id=681184796)
+- [@Z_tJKkeZQoZlcssuXjVjNerQ](t.me/Z_tJKkeZQoZlcssuXjVjNerQ)
 
 
 
 ## 💰 Support me
 
-- <a href="https://www.paypal.com/paypalme/Acuevazdiaz"><img src="https://img.shields.io/badge/Paypal-Donate-lightgreen?logo=paypal"/></a>
+- <a href="https://paypal.me/djosseth2016?country.x=HN&locale.x=es_XC"><img src="https://img.shields.io/badge/Paypal-Donate-lightgreen?logo=paypal"/></a>
 
   
   
