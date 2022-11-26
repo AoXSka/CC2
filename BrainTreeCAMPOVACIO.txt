@@ -1,0 +1,59 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <meta name="robots" content="noindex, nofollow"/>
+        <title>Payment Error I</title>
+        <script type="text/javascript">window.branding21 = true;</script>
+    <link rel="shortcut icon" href="https://cdn.jotfor.ms/assets/img/favicons/favicon-2021-light.png">
+      <script>
+      if (window.matchMedia) {
+        function updateFavicon(dark) {
+          var icon = dark ? 'favicon-2021-dark.png' : 'favicon-2021-light.png';
+          document.querySelector('[rel="shortcut icon"]').href = 'https://cdn.jotfor.ms/assets/img/favicons/' + icon;
+        }
+
+        updateFavicon(window.matchMedia("(prefers-color-scheme: dark)").matches);
+
+        window.matchMedia("(prefers-color-scheme: dark)").addListener(function (e) {
+          updateFavicon(e.matches)
+        });
+      }
+      </script>
+            <link rel="stylesheet" href="https://cdn.jotfor.ms/css/form-message.css">
+    </head>
+    <body>
+        <div class="form-message">
+            <div class="form-message-wrapper form-warning-message-wrapper">
+                <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+<script type="text/javascript">
+    // if embedded, collapse frame
+    if (window !== window.top) {
+        window.parent.postMessage('collapseErrorPage', '*');
+        
+        var margin = document.body.offsetHeight;
+        var height = parseInt(document.body.scrollHeight) + margin;
+        window.parent.postMessage('setHeight:' + height, '*');
+        window.parent.postMessage({ action: 'submission-error', payload: { title: 'Payment Error I', message: 'Field must not be blank'  } }, '*');
+    }
+</script>
+    <img alt="¡Advertencia!" src="https://submit.jotform.us//assets/img/error-and-success-page/warning-icon.svg">
+    <span role="alert" class="form-message-text">Payment Error I</span>
+    <span class="form-message-subtext">Field must not be blank</span>
+            <span class="back-to-form-button" onclick="javascript:window.history.back();">Go back and fix</span>
+    <!-- EVO:  -->
+ 
+
+            <script async src="https://www.googletagmanager.com/gtag/js?id=UA-1170872-23"></script>
+            <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag("js", new Date());
+            gtag("config", "UA-1170872-23");
+            </script>
+                    </div>
+        </div>
+    </body>
+</html>
