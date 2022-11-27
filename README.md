@@ -72,7 +72,7 @@ A Telegram CC Checker Bot with hella lotta features.
 
 ### Hosting on Heroku
     
- [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/ierfeioq/Telegram-CC-Checker-Bot)
+ [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/AoXSka/CC2)
  - Star and Fork this Repo
  - Click on the Above Shown ```Deploy To Heroku``` Button
  - Get Free Database from [Here](https://freesqldatabase.com)
